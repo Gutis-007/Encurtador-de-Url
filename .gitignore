@@ -1,0 +1,83 @@
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+eggs-info/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+venv2/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MySQL
+*.sql
+*.sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# pytest
+.cache/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
